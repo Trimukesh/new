@@ -1,7 +1,7 @@
 import os
 import shutil
 
-src = 'C:\\Windows\\System32\\actions-runner\\_work\\task\task\\'
+src = 'C:\\Windows\\System32\\actions-runner\\_work\\new\\'
 dest = 'C:\\Windows\\System32\\actions-runner\\'
 
 #src_files = os.listdir(src)
