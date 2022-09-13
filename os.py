@@ -2,7 +2,7 @@ import os
 import shutil
 
 src = 'C:\\Windows\\System32\\actions-runner\\_work\\new\\'
-dest = 'C:\\Windows\\System32\\actions-runner\\'
+dest = 'F:\\dest\\'
 
 #src_files = os.listdir(src)
 
