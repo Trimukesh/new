@@ -1,6 +1,6 @@
 import os
 import shutil
-class os
+
 src = 'C:\Windows\System32\actions-runner\_work\new'
 dest = 'F:\dest'
 
