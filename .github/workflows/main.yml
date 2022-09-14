@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: 3.10
       - name: Python file
-        run: os.py
+        run: python os.py
         shell: python
 
 
