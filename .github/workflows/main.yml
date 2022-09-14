@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Python file
-        run: os.py
+        run: python os.py
         shell: python
 
 
